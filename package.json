@@ -1,5 +1,5 @@
 {
-  "name": "jd_sign_bot",
+  "name": "my_jd_sign_robot",
   "version": "1.0.0",
   "description": "",
   "main": "JD_DailyBonus.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ruicky/jd_sign_bot.git"
+    "url": "git+https://github.com/bestHandsome/my_jd_sign_robot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ruicky/jd_sign_bot/issues"
+    "url": "https://github.com/bestHandsome/my_jd_sign_robot/issues"
   },
-  "homepage": "https://github.com/ruicky/jd_sign_bot#readme",
+  "homepage": "https://github.com/bestHandsome/my_jd_sign_robot#readme",
   "dependencies": {
     "download": "^8.0.0",
     "request": "^2.88.2",
