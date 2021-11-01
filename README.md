@@ -5,8 +5,7 @@
 2. 替换参数值
 3. 签到并发送通知
 
-
-updatetime：2021、11、1
+updatetime ：2021、11、1
 
 
 详情参考文章:[定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/) 
